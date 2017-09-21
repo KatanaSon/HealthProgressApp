@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_progress_tracker">Movement Progress Tracker</string>
+    <string name="start_stop_button"> %s </string>
+    <string name="start"> Start </string>
+    <string name="stop"> Stop </string>
+</resources>
